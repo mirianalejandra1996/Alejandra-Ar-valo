@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p width="50"><em>IT Technician in <a href="http://www.unb.br">IUTIRLA   </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>and Frontend Developer at <a href="https://www.thoughtworks.com">Laboratoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p width="50"><em>IT Technician at <a href="http://www.unb.br">IUTIRLA   </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>and Frontend Developer at <a href="https://www.thoughtworks.com">Laboratoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
