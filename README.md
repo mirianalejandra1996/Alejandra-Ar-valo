@@ -50,12 +50,12 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mirianalejandra1996">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirianalejandra1996&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirianalejandra1996&show_icons=true&theme=moltack&langs_count=10" alt="Ale GitHub Langs"/>
 </a>
 
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 <a href="https://github.com/mirianalejandra1996">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirianalejandra1996&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirianalejandra1996&show_icons=true&theme=moltack" alt="Ale GitHub Stats" />
 </a>
 
