@@ -3,7 +3,8 @@
 <p width="50"><em>IT Technician at <a href="https://iutirla.web.ve/">IUTIRLA   </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>and Frontend Developer at <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ###  &nbsp;About Me
 
@@ -11,10 +12,10 @@
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for UI/Design and innovation.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving.\
 &nbsp;&nbsp;&nbsp;💡 &nbsp;Currently learning new frameworks.\
-&nbsp;&nbsp;&nbsp;🤩 &nbsp;In my free time, I like to go out to train or go for a walk and create new things (Crafts Lover).\
+&nbsp;&nbsp;&nbsp;🤩 &nbsp;In my free time, I like to go out to train  
+&nbsp;&nbsp;&nbsp; or go for a walk and create new things (Crafts Lover).\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Working to become a great Fullstack Developer.\
 &nbsp;&nbsp;&nbsp;<img  width="20" src="https://user-images.githubusercontent.com/91838806/168964738-cc15357b-3927-4db4-9588-c03d4330bdeb.png" /> &nbsp;Living in Perú 🦙 
-
 
 <p align="center">
   <a href="mailto:mirianalejandra1996@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
