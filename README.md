@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;<img  width="20" src="https://user-images.githubusercontent.com/91838806/168964738-cc15357b-3927-4db4-9588-c03d4330bdeb.png" /> &nbsp;Living in Perú 🦙 
 
 <p align="center">
-  <a href="mailto:mirianalejandra1996@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mirianalejandra1996@gmail.com?subject=Solicitud%20de%20Servicios%20de%20Desarrollo%20Frontend"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/mirianalejandra.arevalo"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mirian-arevalo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
